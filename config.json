@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "kakashi310@exdonuts.com",
-    "password": "Anya@11",
+    "email": "osee24369@gmail.com",
+    "password": "Osee@2006×",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61556291038049"
+    "100095251958169"
   ],
   "whiteListMode": {
     "enable": false,
@@ -25,7 +25,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "[ * ] • A N Y A",
-  "ownerlink": "https://www.facebook.com/Asmit011",
+  "ownerlink": "https://www.facebook.com/profile.php?id=100095251958169",
   "prefix": "*",
   "database": {
     "type": "sqlite",
@@ -34,10 +34,10 @@
     "autoRefreshThreadInfoFirstTime": true,
     "notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when you set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
   },
-  "timeZone": "Asia/Ho_Chi_Minh",
+  "timeZone": "Africa/Abidjan",
   "credentials": {
     "gmailAccount": {
-      "email": "cliffbotbeluga@gmail.com",
+      "email": "osee24369@gmail.com",
       "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
